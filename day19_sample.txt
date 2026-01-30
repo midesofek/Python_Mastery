@@ -1,0 +1,5 @@
+I am first line, don't know what these folks are talking about
+I'm second line, I'M JUST A text file within python
+This text has to be appended at the endThis text has to be appended at the end
+
+This text has to be appended at the endThis text has to be appended at the endThis text has to be appended at the endThis text has to be appended at the endThis text has to be appended at the endThis text has to be appended at the endThis text has to be appended at the endThis text has to be appended at the endThis text has to be appended at the endThis text has to be appended at the endThis text has to be appended at the endThis text has to be appended at the endThis text has to be appended at the endThis text has to be appended at the endThis text has to be appended at the endThis text has to be appended at the endThis text has to be appended at the endThis text has to be appended at the end
